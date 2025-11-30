@@ -1,7 +1,7 @@
 # B. Fortune Telling Div 2 (Est rating 1400)
 ---
 ## My Code :
-
+'''java
 
 import java.util.Arrays;
 import java.util.Scanner;

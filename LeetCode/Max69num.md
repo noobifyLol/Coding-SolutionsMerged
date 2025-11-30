@@ -1,7 +1,7 @@
 # Easy problem Maxium69 Number
 
 ## My code : 
-
+'''java
 
 
 class Solution {
