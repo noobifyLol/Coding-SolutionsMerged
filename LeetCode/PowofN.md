@@ -2,6 +2,9 @@
 
 ---
 ## My Code : 
+
+
+
 function myPow(x: number, n: number): number {
     let iter = 1;
 

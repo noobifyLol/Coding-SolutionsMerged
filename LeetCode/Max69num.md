@@ -1,6 +1,9 @@
 # Easy problem Maxium69 Number
 
 ## My code : 
+
+
+
 class Solution {
     public int maximum69Number (int num) {
         int temp = num;
