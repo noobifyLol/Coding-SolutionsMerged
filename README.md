@@ -1,2 +1,14 @@
 # Coding-SolutionsMerged
-My solutions for Math coding problems
+## Table of Contents
+1. CodeForces
+2. LeetCode
+
+---
+### Math Book
+**This is the book where I display my solutions for Math based coding problems**   
+**where I go explain the approaches I used**
+
+---
+  
+…
+
